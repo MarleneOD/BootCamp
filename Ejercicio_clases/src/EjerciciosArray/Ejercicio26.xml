@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<coche>
+	<componentes>
+		<componente cantidad="1">volante</componente>
+		<componente cantidad="1">salpicadero</componente>
+		<componente cantidad="3">pedal</componente>
+		<componente cantidad="5">puerta</componente>
+		<componente cantidad="3">asiento</componente><componente cantidad="1">volante</componente>
+		<componente cantidad="3">retrovisor</componente>
+	</componentes>
+</coche>

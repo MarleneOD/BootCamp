@@ -1,0 +1,18 @@
+{
+	"listaCoches":[
+		{
+			"MARCA": "Kia",
+			"MODELO": "Ceed",
+			"GARAJE": "Kia",
+			"HABILIDADPILOTO": "70",
+			"PUNTUACION": 0
+		},
+		{
+			"MARCA": "Kia",
+			"MODELO": "Stonic",
+			"GARAJE": "Kia",
+			"HABILIDADPILOTO": "60",
+			"PUNTUACION": 0
+		}
+	]
+}
